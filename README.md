@@ -6,7 +6,8 @@
 
 Who owns it？
 
-Make a fake？
+
+Fabricate evidence through machine learning
 
 2、Brute force attack
 
